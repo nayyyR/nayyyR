@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayyyr&label=Profile%20views&color=0e75b6&style=flat" alt="nayyyr" /> </p>
 
 # 💫 About Me:
-🌱 I’m currently learning python, and also next js<br>👨‍💻 All of my projects are available at https://github.com/nayyyR and also at https://github.com/Nay45 (old account)<br>💬 Ask me about java, kotlin, and laravel<br>📫 How to reach me nayottamamustafa@gmail.com
+🎓 Informatics Student at Telkom University Surabaya<br>🌱 I’m currently learning python, and also next js<br>👨‍💻 All of my projects are available at https://github.com/nayyyR and also at https://github.com/Nay45 (old account)<br>💬 Ask me about java, kotlin, and laravel<br>🎯 2026 Goal: Participate in open source projects and get an internship as a junior backend developer.<br>📫 How to reach me nayottamamustafa@gmail.com
 
 
 ## 🌐 Socials:
@@ -17,10 +17,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=nayyyR&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nayyyR&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nayyyR&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nayyyR&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+-->
