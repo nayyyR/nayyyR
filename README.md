@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayyyr&label=Profile%20views&color=0e75b6&style=flat" alt="nayyyr" /> </p>
 
 # 💫 About Me:
-🌱 I’m currently learning python, and also next js<br>👨‍💻 All of my projects are available at https://github.com/nayyyR<br>💬 Ask me about java, kotlin, and laravel<br>📫 How to reach me nayottamamustafa@gmail.com
+🌱 I’m currently learning python, and also next js<br>👨‍💻 All of my projects are available at https://github.com/nayyyR and also at https://github.com/Nay45 (old account)<br>💬 Ask me about java, kotlin, and laravel<br>📫 How to reach me nayottamamustafa@gmail.com
 
 
 ## 🌐 Socials:
